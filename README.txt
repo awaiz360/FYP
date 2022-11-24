@@ -1,5 +1,6 @@
 ######################################################################
 # GHULAM ISHAQ KHAN INSTITUTE OF ENGINEERING SCIENCES AND TECHNOLOGY #
+#                 FACULTY OF COMPUTER ENGINEERING                    #
 ######################################################################
 
 -> This is a Final Year Project (FYP) Repository
