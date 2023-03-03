@@ -20,3 +20,5 @@
 	- Gazebo Simulation
 	- Prototype Fabrication
  	- Apply for Inspire Sponsorship
+	
+-> GIRA: https://team-16679952749642.atlassian.net/jira/software/projects/FYP/boards/1
